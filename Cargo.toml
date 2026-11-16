@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-systemd-timers"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS systemd-timers component - init_system"
+
+[lib]
+name = "systemd_timers"
+path = "src/lib.rs"
