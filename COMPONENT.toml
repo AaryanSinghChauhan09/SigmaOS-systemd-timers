@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-timers"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-timers component"
+description = "systemd timers"
 upstream = []
 
 [contract]
